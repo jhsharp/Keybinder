@@ -1,0 +1,1 @@
+global.areaMusic = snArea3;
